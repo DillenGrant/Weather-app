@@ -1,0 +1,36 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+}
+
+#search-history {
+    margin-top: 20px;
+}
+
+#current-weather {
+    margin-top: 20px;
+}
+
+#forecast {
+    margin-top: 20px;
+}
