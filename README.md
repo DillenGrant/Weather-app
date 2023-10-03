@@ -1,7 +1,7 @@
 # Weather-app
 going on a trip and want to know what the weather is gonna be like? here is an app for that!
 
-xxx here is the live page
+https://dillengrant.github.io/Weather-app/ here is the live page
 
 ## Description
 
